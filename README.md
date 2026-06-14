@@ -3,7 +3,7 @@
 Extends Laravel's `make:model` Artisan command to also generate a **Service class** in `app/Services` when using the `-s` (or `--service`) flag.
 
 ## Features
-- Works with **Laravel 10, 11, and 12**
+- Works with **Laravel 10, 11, 12, and 13**
 - Fully PSR-4 compliant
 - Generates service alongside model, migration, and controller
 - Seamlessly integrates with all existing `make:model` options
