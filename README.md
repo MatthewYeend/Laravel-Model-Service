@@ -51,7 +51,7 @@ Flags
 
 ---
 
-## Customizing the Service Stub
+## Customising the Service Stub
 You can publish the stub to modify the generated service file:
 ```bash
 php artisan vendor:publish --tag=stubs
